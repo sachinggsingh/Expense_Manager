@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+
+.imageClass{
+    mix-blend-mode:hard-light;
+}
